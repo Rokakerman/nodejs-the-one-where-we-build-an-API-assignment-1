@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-the-one-where-we-build-an-api-assignment-1",
+  "version": "1.0.0",
+  "description": "API betygsinlämning (backend)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rokakerman/nodejs-the-one-where-we-build-an-API-assignment-1.git"
+  },
+  "author": "Henrik Johansson (JENSEN)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rokakerman/nodejs-the-one-where-we-build-an-API-assignment-1/issues"
+  },
+  "homepage": "https://github.com/Rokakerman/nodejs-the-one-where-we-build-an-API-assignment-1#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lowdb": "^1.0.0"
+  }
+}
